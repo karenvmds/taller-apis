@@ -1,0 +1,46 @@
+html {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Imagenes/fondo.jpg");
+    background-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ h1 {
+    text-align: center;
+    color: white;
+    padding: 2px;
+    margin-top: 100px;
+
+ }
+
+ #contenedorDeBusqueda{
+    text-align: center;
+ }
+
+ #buscador {
+    min-height:40px;
+    min-width: 600px;
+ }
+
+ #botonBuscar {
+    min-height:40px;
+    min-width: 100px;
+    color: white;
+    background-color: green ;
+ }
+
+
+
+ #resultadoBusqueda {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 500px ;
+    margin-right: 500px;
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+ }
+
+ h3, p {
+    color: white;
+ }
